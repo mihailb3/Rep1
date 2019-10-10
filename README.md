@@ -1,2 +1,2 @@
 # Rep1
-Practice
+Practice Thursday
